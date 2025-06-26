@@ -34,8 +34,6 @@ Omnifood is a modern, responsive, and visually appealing food delivery landing p
 
 ![Omnifood Screenshot](https://raw.githubusercontent.com/Avin-Chaudhary/Omnifood/main/screenshots/omnifood-preview.png)
 
-> *(Replace with your actual screenshot. If you don’t have one yet, take a screenshot of the full landing page and save it in a `/screenshots` folder.)*
-
 ---
 
 ## 📦 How to Use
